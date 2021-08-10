@@ -3,7 +3,7 @@
   "publishConfig": {
     "private": false
   },
-  "version": "15.4.4",
+  "version": "15.4.5",
   "description": "syntax highlighting component for react with prismjs or highlightjs ast using inline styles",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
