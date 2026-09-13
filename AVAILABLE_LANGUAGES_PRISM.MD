@@ -7,49 +7,71 @@
 * al
 * antlr4
 * apacheconf
+* apex
 * apl
 * applescript
 * aql
 * arduino
 * arff
+* armasm
+* arturo
 * asciidoc
 * asm6502
+* asmatmel
 * aspnet
 * autohotkey
 * autoit
+* avisynth
+* avroIdl (avro-idl)
+* awk
 * bash
 * basic
 * batch
 * bbcode
+* bbj
+* bicep
 * birb
 * bison
 * bnf
+* bqn
 * brainfuck
 * brightscript
 * bro
 * bsl
 * c
+* cfscript
+* chaiscript
 * cil
+* cilkc
+* cilkcpp
 * clike
 * clojure
 * cmake
+* cobol
 * coffeescript
 * concurnas
+* cooklang
+* coq
 * cpp
 * crystal
 * csharp
+* cshtml
 * csp
 * cssExtras (css-extras)
 * css
+* csv
+* cue
 * cypher
 * d
 * dart
+* dataweave
 * dax
 * dhall
 * diff
 * django
 * dnsZoneFile (dns-zone-file)
 * docker
+* dot
 * ebnf
 * editorconfig
 * eiffel
@@ -61,19 +83,25 @@
 * etlua
 * excelFormula (excel-formula)
 * factor
+* falselang (false)
 * firestoreSecurityRules (firestore-security-rules)
 * flow
 * fortran
 * fsharp
 * ftl
+* gap
 * gcode
 * gdscript
 * gedcom
+* gettext
 * gherkin
 * git
 * glsl
 * gml
+* gn
+* goModule (go-module)
 * go
+* gradle
 * graphql
 * groovy
 * haml
@@ -82,11 +110,14 @@
 * haxe
 * hcl
 * hlsl
+* hoon
 * hpkp
 * hsts
 * http
 * ichigojam
 * icon
+* icuMessageFormat (icu-message-format)
+* idris
 * iecst
 * ignore
 * inform7
@@ -98,6 +129,7 @@
 * javadoclike
 * javascript
 * javastacktrace
+* jexl
 * jolie
 * jq
 * jsExtras (js-extras)
@@ -109,24 +141,34 @@
 * jsstacktrace
 * jsx
 * julia
+* keepalived
 * keyman
 * kotlin
+* kumir
+* kusto
 * latex
 * latte
 * less
 * lilypond
+* linkerScript (linker-script)
 * liquid
 * lisp
 * livescript
 * llvm
+* log
 * lolcode
 * lua
+* magma
 * makefile
 * markdown
 * markupTemplating (markup-templating)
 * markup
+* mata
 * matlab
+* maxscript
 * mel
+* mermaid
+* metafont
 * mizar
 * mongodb
 * monkey
@@ -137,13 +179,16 @@
 * naniscript
 * nasm
 * neon
+* nevod
 * nginx
 * nim
 * nix
 * nsis
 * objectivec
 * ocaml
+* odin
 * opencl
+* openqasm
 * oz
 * parigp
 * parser
@@ -155,13 +200,16 @@
 * phpExtras (php-extras)
 * php
 * phpdoc
+* plantUml (plant-uml)
 * plsql
 * powerquery
 * powershell
 * processing
 * prolog
+* promql
 * properties
 * protobuf
+* psl
 * pug
 * puppet
 * pure
@@ -171,11 +219,14 @@
 * q
 * qml
 * qore
+* qsharp
 * r
 * racket
 * reason
 * regex
+* rego
 * renpy
+* rescript
 * rest
 * rip
 * roboconf
@@ -199,9 +250,13 @@
 * splunkSpl (splunk-spl)
 * sqf
 * sql
+* squirrel
 * stan
+* stata
 * stylus
+* supercollider
 * swift
+* systemd
 * t4Cs (t4-cs)
 * t4Templating (t4-templating)
 * t4Vb (t4-vb)
@@ -209,6 +264,7 @@
 * tcl
 * textile
 * toml
+* tremor
 * tsx
 * tt2
 * turtle
@@ -216,6 +272,9 @@
 * typescript
 * typoscript
 * unrealscript
+* uorazor
+* uri
+* v
 * vala
 * vbnet
 * velocity
@@ -225,7 +284,11 @@
 * visualBasic (visual-basic)
 * warpscript
 * wasm
+* webIdl (web-idl)
+* wgsl
 * wiki
+* wolfram
+* wren
 * xeora
 * xmlDoc (xml-doc)
 * xojo

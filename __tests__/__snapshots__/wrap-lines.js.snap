@@ -1,5 +1,40 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Prism SyntaxHighlighter renders JSX code correctly with wrapLines 1`] = `
+<pre
+  style={
+    Object {
+      "backgroundColor": "#fff",
+    }
+  }
+>
+  <code
+    className="language-jsx"
+    style={
+      Object {
+        "whiteSpace": "pre",
+      }
+    }
+  >
+    
+import React from "react";
+
+const x = \`
+template string.
+\`
+
+const y = () =&gt; {
+  return (
+    &lt;div&gt;
+      jsx
+    &lt;/div&gt;
+  )
+}
+
+  </code>
+</pre>
+`;
+
 exports[`SyntaxHighlighter allows lineProps as an object 1`] = `
 <pre
   style={
@@ -483,7 +518,6 @@ exports[`SyntaxHighlighter allows lineProps as an object 1`] = `
       }
     >
       
-
     </span>
   </code>
 </pre>
@@ -972,7 +1006,6 @@ exports[`SyntaxHighlighter allows lineProps as function 1`] = `
       }
     >
       
-
     </span>
   </code>
 </pre>
@@ -1417,7 +1450,6 @@ exports[`SyntaxHighlighter component renders correctly 1`] = `
       style={Object {}}
     >
       
-
     </span>
   </code>
 </pre>
