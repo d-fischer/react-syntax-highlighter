@@ -103,11 +103,9 @@ function createLineElement({
   wrapLongLines,
   wrapLines = false
 }) {
-  const properties = wrapLines
-    ? {
-        ...(typeof lineProps === 'function' ? lineProps(lineNumber) : lineProps)
-      }
-    : {};
+  const properties = {
+    ...(typeof lineProps === 'function' ? lineProps(lineNumber) : lineProps)
+  };
 
   properties['className'] = properties['className']
     ? [...properties['className'].trim().split(/\s+/), ...className]
